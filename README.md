@@ -5,3 +5,6 @@ I dedicated significant effort to creating a dynamic and user-friendly YouTube i
 
 My Dedication to Web Development: 
 My passion for web development drives me to continuously hone my skills and stay updated with the latest industry trends. I am committed to crafting seamless, visually appealing, and functional websites by leveraging tools like HTML, CSS, and JavaScript. My enthusiasm for problem-solving and creating impactful digital and practical experiences underscores my unwavering dedication to excelling in the field of web development.
+
+Importtant note the provided links in the webpaage are just for educational purpose
+i am not promoting any of them 😊  
